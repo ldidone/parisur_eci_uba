@@ -1,0 +1,865 @@
+Invoice number found: U05703590
+Total charged found: 33743.05
+Exctracting info from file U07678426.jpg | [8113/8411]
+Invoice number found: U07678426
+Total charged found: 15229.29
+Exctracting info from file U08528695.jpg | [8114/8411]
+Invoice number found: U08528695
+Total charged found: 27081.78
+Exctracting info from file U11487802.jpg | [8115/8411]
+Invoice number found: 433366401
+Total charged found: 46129.9
+Exctracting info from file U28270711.jpg | [8116/8411]
+Invoice number found: U28270711
+Total charged found: 16.0
+Exctracting info from file U29182053.jpg | [8117/8411]
+Invoice number found: U29182053
+Total charged found: 19180.42
+Exctracting info from file U33580793.jpg | [8118/8411]
+Invoice number found: U33580793
+Total charged found: 11308.8
+Exctracting info from file U40418913.jpg | [8119/8411]
+Invoice number found: U40418913
+Total charged found: 14762.68
+Exctracting info from file U42746495.jpg | [8120/8411]
+Invoice number found: U42746495
+Total charged found: 20900.09
+Exctracting info from file U53650647.jpg | [8121/8411]
+Invoice number found: U53650647
+Total charged found: 25582.56
+Exctracting info from file U56792463.jpg | [8122/8411]
+Invoice number found: U56792463
+Total charged found: 15925.62
+Exctracting info from file U57608992.jpg | [8123/8411]
+Invoice number found: U57608992
+Total charged found: 16338.69
+Exctracting info from file U57880471.jpg | [8124/8411]
+Invoice number found: U57880471
+Total charged found: 42207.56
+Exctracting info from file U59837005.jpg | [8125/8411]
+Invoice number found: U59837005
+Total charged found: 28665.65
+Exctracting info from file U61162030.jpg | [8126/8411]
+Invoice number found: 449818763
+Exctracting info from file U65119576.jpg | [8127/8411]
+Invoice number found: U65119576
+Error ocurred with the total of invoice_number: U65119576
+Exctracting info from file U68436299.jpg | [8128/8411]
+Invoice number found: U68436299
+Total charged found: 23534.75
+Exctracting info from file U71720060.jpg | [8129/8411]
+Invoice number found: U71720060
+Total charged found: 21771.22
+Exctracting info from file U72731399.jpg | [8130/8411]
+Invoice number found: U72731399
+Total charged found: 27467.82
+Exctracting info from file U74004057.jpg | [8131/8411]
+Invoice number found: U74004057
+Total charged found: 12245.55
+Exctracting info from file U76177022.jpg | [8132/8411]
+Invoice number found: U76177022
+Total charged found: 26346.95
+Exctracting info from file U76823017.jpg | [8133/8411]
+Invoice number found: U76823017
+Exctracting info from file U78612618.jpg | [8134/8411]
+Invoice number found: 845500562
+Total charged found: 35474.54
+Exctracting info from file U80849210.jpg | [8135/8411]
+Invoice number found: U80849210
+Total charged found: 84159.49
+Exctracting info from file U81229442.jpg | [8136/8411]
+Invoice number found: U81229442
+Exctracting info from file U82840171.jpg | [8137/8411]
+Invoice number found: U82840171
+Total charged found: 24700.96
+Exctracting info from file U90403970.jpg | [8138/8411]
+Exctracting info from file U91646451.jpg | [8139/8411]
+Invoice number found: U91646451
+Total charged found: 54243.31
+Exctracting info from file U97057801.jpg | [8140/8411]
+Invoice number found: U97057801
+Total charged found: 16866.52
+Exctracting info from file U98976809.jpg | [8141/8411]
+Exctracting info from file V03541083.jpg | [8142/8411]
+Invoice number found: V03541083
+Total charged found: 28115.82
+Exctracting info from file V13964845.jpg | [8143/8411]
+Invoice number found: V13964845
+Total charged found: 8507.15
+Exctracting info from file V15650260.jpg | [8144/8411]
+Invoice number found: V15650260
+Total charged found: 6757.07
+Exctracting info from file V18815370.jpg | [8145/8411]
+Invoice number found: V18815370
+Total charged found: 74.0
+Exctracting info from file V18849890.jpg | [8146/8411]
+Invoice number found: V18849890
+Error ocurred with the total of invoice_number: V18849890
+Exctracting info from file V20901137.jpg | [8147/8411]
+Invoice number found: V20901137
+Total charged found: 12089.58
+Exctracting info from file V23294002.jpg | [8148/8411]
+Invoice number found: V23294002
+Total charged found: 21303.65
+Exctracting info from file V25420476.jpg | [8149/8411]
+Invoice number found: V25420476
+Total charged found: 19.0
+Exctracting info from file V30180291.jpg | [8150/8411]
+Invoice number found: V30180291
+Total charged found: 3365.89
+Exctracting info from file V33849045.jpg | [8151/8411]
+Invoice number found: V33849045
+Total charged found: 39202.12
+Exctracting info from file V43633851.jpg | [8152/8411]
+Invoice number found: V43633851
+Total charged found: 4.0
+Exctracting info from file V44844814.jpg | [8153/8411]
+Invoice number found: V44844814
+Total charged found: 13474.47
+Exctracting info from file V46391424.jpg | [8154/8411]
+Invoice number found: V46391424
+Total charged found: 22130.24
+Exctracting info from file V50778542.jpg | [8155/8411]
+Invoice number found: V50778542
+Total charged found: 12112.86
+Exctracting info from file V53946985.jpg | [8156/8411]
+Invoice number found: V53946985
+Total charged found: 27178.5
+Exctracting info from file V54622249.jpg | [8157/8411]
+Invoice number found: V54622249
+Total charged found: 29989.03
+Exctracting info from file V55732683.jpg | [8158/8411]
+Invoice number found: V55732683
+Total charged found: 17670.3
+Exctracting info from file V62959743.jpg | [8159/8411]
+Invoice number found: V62959743
+Total charged found: 21441.62
+Exctracting info from file V69002496.jpg | [8160/8411]
+Invoice number found: V69002496
+Exctracting info from file V70675550.jpg | [8161/8411]
+Invoice number found: V70675550
+Total charged found: 3461.72
+Exctracting info from file V75796690.jpg | [8162/8411]
+Invoice number found: V75796690
+Total charged found: 40010.01
+Exctracting info from file V80429423.jpg | [8163/8411]
+Invoice number found: V80429423
+Total charged found: 18246.63
+Exctracting info from file V83205279.jpg | [8164/8411]
+Invoice number found: V83205279
+Exctracting info from file V86639492.jpg | [8165/8411]
+Invoice number found: V86639492
+Total charged found: 35067.6
+Exctracting info from file V93067699.jpg | [8166/8411]
+Invoice number found: V93067699
+Total charged found: 27874.97
+Exctracting info from file V98886330.jpg | [8167/8411]
+Invoice number found: V98886330
+Total charged found: 20352.08
+Exctracting info from file ValdezandSons_2022-03-18.jpg | [8168/8411]
+Invoice number found: H93075608
+Total charged found: 76702.7
+Exctracting info from file ValdezandSons_2022-10-21.jpg | [8169/8411]
+Invoice number found: Q45263737
+Total charged found: 20173.29
+Exctracting info from file ValentineParker_2021-04-30.jpg | [8170/8411]
+Invoice number found: 915112941
+Total charged found: 9655.37
+Exctracting info from file VanceSmithandCabrera_2023-02-11.jpg | [8171/8411]
+Invoice number found: 57226538
+Total charged found: 22664.54
+Exctracting info from file VargasInc_2023-03-26.jpg | [8172/8411]
+Invoice number found: 916653079
+Total charged found: 22157.01
+Exctracting info from file VargasLtd_2023-01-02.jpg | [8173/8411]
+Invoice number found: 346884370
+Total charged found: 10913.56
+Exctracting info from file VargasSpencerandRoberts_2022-04-08.jpg | [8174/8411]
+Invoice number found: V13672925
+Total charged found: 9519.84
+Exctracting info from file VasquezLong_2021-11-29.jpg | [8175/8411]
+Invoice number found: J25891795
+Total charged found: 21.0
+Exctracting info from file VazquezHernandez_2023-01-15.jpg | [8176/8411]
+Invoice number found: P26575683
+Total charged found: 42257.7
+Exctracting info from file VegaDougherty_2022-04-16.jpg | [8177/8411]
+Invoice number found: 676168887
+Total charged found: 17759.15
+Exctracting info from file VegaLLC_2021-03-19.jpg | [8178/8411]
+Total charged found: 31189.65
+Exctracting info from file VelasquezGeorge_2022-09-17.jpg | [8179/8411]
+Invoice number found: 244980528
+Total charged found: 1856.51
+Exctracting info from file VelasquezGrahamandHood_2022-05-25.jpg | [8180/8411]
+Invoice number found: 511629683
+Total charged found: 15379.17
+Exctracting info from file VelazquezThomasandMoore_2022-09-24.jpg | [8181/8411]
+Invoice number found: Y88368892
+Total charged found: 11102.81
+Exctracting info from file VillaCollinsandHaas_2023-03-16.jpg | [8182/8411]
+Invoice number found: 379559832
+Total charged found: 13728.92
+Exctracting info from file VillaDouglas_2021-01-21.jpg | [8183/8411]
+Invoice number found: 193719730
+Total charged found: 39263.98
+Exctracting info from file VillanuevaInc_2022-12-16.jpg | [8184/8411]
+Invoice number found: K66956951
+Total charged found: 7429.62
+Exctracting info from file VillarrealInc_2022-07-28.jpg | [8185/8411]
+Invoice number found: 776796220
+Total charged found: 4811.72
+Exctracting info from file VillaThomasandHolmes_2021-10-06.jpg | [8186/8411]
+Invoice number found: 932320227
+Total charged found: 49.0
+Exctracting info from file VincentCollins_2022-01-27.jpg | [8187/8411]
+Invoice number found: 811092254
+Total charged found: 11403.44
+Exctracting info from file W02810013.jpg | [8188/8411]
+Total charged found: 1906.52
+Invoice number found: W02810013
+Exctracting info from file W04541305.jpg | [8189/8411]
+Invoice number found: W04541305
+Total charged found: 12151.52
+Exctracting info from file W13031205.jpg | [8190/8411]
+Invoice number found: W13031205
+Exctracting info from file W15412659.jpg | [8191/8411]
+Invoice number found: W15412659
+Total charged found: 43439.74
+Exctracting info from file W16159113.jpg | [8192/8411]
+Total charged found: 27194.35
+Invoice number found: W16159113
+Exctracting info from file W16711057.jpg | [8193/8411]
+Total charged found: 5383.62
+Invoice number found: W16711057
+Exctracting info from file W17730802.jpg | [8194/8411]
+Invoice number found: W17730802
+Total charged found: 19268.51
+Exctracting info from file W19713911.jpg | [8195/8411]
+Invoice number found: W19713911
+Total charged found: 9598.8
+Exctracting info from file W33484442.jpg | [8196/8411]
+Total charged found: 14419.93
+Invoice number found: W33484442
+Exctracting info from file W42549923.jpg | [8197/8411]
+Invoice number found: W42549923
+Total charged found: 30096.74
+Exctracting info from file W46065450.jpg | [8198/8411]
+Invoice number found: W46065450
+Total charged found: 20745.89
+Exctracting info from file W46365009.jpg | [8199/8411]
+Invoice number found: W46365009
+Total charged found: 6784.0
+Exctracting info from file W50844400.jpg | [8200/8411]
+Invoice number found: W50844400
+Total charged found: 19190.05
+Exctracting info from file W50934906.jpg | [8201/8411]
+Invoice number found: W50934906
+Total charged found: 9425.3
+Exctracting info from file W52716872.jpg | [8202/8411]
+Total charged found: 21738.14
+Invoice number found: W52716872
+Exctracting info from file W54573496.jpg | [8203/8411]
+Invoice number found: W54573496
+Total charged found: 12546.81
+Exctracting info from file W55225780.jpg | [8204/8411]
+Invoice number found: W55225780
+Total charged found: 36917.01
+Exctracting info from file W56817605.jpg | [8205/8411]
+Invoice number found: W56817605
+Total charged found: 34808.58
+Exctracting info from file W57907084.jpg | [8206/8411]
+Invoice number found: W57907084
+Total charged found: 29275.12
+Exctracting info from file W61269588.jpg | [8207/8411]
+Invoice number found: W61269588
+Total charged found: 40386.89
+Exctracting info from file W69558855.jpg | [8208/8411]
+Invoice number found: W69558855
+Total charged found: 16110.92
+Exctracting info from file W71399558.jpg | [8209/8411]
+Invoice number found: W71399558
+Total charged found: 10213.98
+Exctracting info from file W71597094.jpg | [8210/8411]
+Total charged found: 5876.07
+Invoice number found: W71597094
+Exctracting info from file W89891523.jpg | [8211/8411]
+Invoice number found: W89891523
+Total charged found: 38321.33
+Exctracting info from file WagnerMaciasandParks_2023-01-13.jpg | [8212/8411]
+Invoice number found: 662027874
+Total charged found: 21830.64
+Exctracting info from file WagnerMatthewsandGonzalez_2021-09-14.jpg | [8213/8411]
+Total charged found: 41985.38
+Exctracting info from file WagnerRandallandLee_2022-04-12.jpg | [8214/8411]
+Invoice number found: 934729720
+Total charged found: 6542.63
+Exctracting info from file WagnerWebsterandDavies_2022-01-11.jpg | [8215/8411]
+Invoice number found: 907634695
+Total charged found: 19656.41
+Exctracting info from file WalkerInc_2022-07-20.jpg | [8216/8411]
+Invoice number found: 295429605
+Total charged found: 21604.83
+Exctracting info from file WalkerKellyandMcgee_2022-04-18.jpg | [8217/8411]
+Total charged found: 11470.32
+Exctracting info from file WalkerSoto_2022-07-12.jpg | [8218/8411]
+Total charged found: 44368.56
+Exctracting info from file WallaceGrayandHeath_2021-01-13.jpg | [8219/8411]
+Invoice number found: Z38499560
+Total charged found: 4133786.0
+Exctracting info from file WallacePriceandSimon_2022-09-01.jpg | [8220/8411]
+Invoice number found: 31605763
+Total charged found: 23785.57
+Exctracting info from file WallandSons_2021-11-21.jpg | [8221/8411]
+Invoice number found: K92006483
+Total charged found: 9608.76
+Exctracting info from file WallColeandJohnson_2022-10-12.jpg | [8222/8411]
+Invoice number found: 375587074
+Total charged found: 29309.73
+Exctracting info from file WallerMills_2021-02-17.jpg | [8223/8411]
+Invoice number found: N79992674
+Total charged found: 19213.1
+Exctracting info from file WallerThomas_2022-02-19.jpg | [8224/8411]
+Invoice number found: 928523278
+Total charged found: 7588.13
+Exctracting info from file WallHart_2021-12-21.jpg | [8225/8411]
+Error ocurred with the total of invoice_number: None
+Exctracting info from file WallHoward_2021-07-18.jpg | [8226/8411]
+Invoice number found: G84438704
+Total charged found: 52386.47
+Exctracting info from file WalterEnglish_2022-09-03.jpg | [8227/8411]
+Invoice number found: L30732526
+Total charged found: 20239.1
+Exctracting info from file WalterPLC_2023-03-21.jpg | [8228/8411]
+Invoice number found: R09539613
+Total charged found: 35810.39
+Exctracting info from file WaltersGroup_2022-10-14.jpg | [8229/8411]
+Invoice number found: 200510878
+Total charged found: 62710.5
+Exctracting info from file WaltonLtd_2021-03-10.jpg | [8230/8411]
+Invoice number found: B35209087
+Exctracting info from file WardBakerandDavenport_2022-10-03.jpg | [8231/8411]
+Invoice number found: 798959608
+Total charged found: 19401.69
+Exctracting info from file WardGroup_2023-01-05.jpg | [8232/8411]
+Invoice number found: 180597354
+Total charged found: 5962.86
+Exctracting info from file WareandSons_2021-06-25.jpg | [8233/8411]
+Invoice number found: P97233425
+Total charged found: 57878.03
+Exctracting info from file WarnerFreemanandValdez_2023-01-26.jpg | [8234/8411]
+Invoice number found: F61197334
+Total charged found: 6161.58
+Exctracting info from file WarrenDickersonandClark_2021-09-03.jpg | [8235/8411]
+Invoice number found: 85504121
+Total charged found: 49484.75
+Exctracting info from file WarrenInc_2022-12-14.jpg | [8236/8411]
+Invoice number found: M12397387
+Total charged found: 24464.63
+Exctracting info from file WatkinsEscobarandAlexander_2023-01-14.jpg | [8237/8411]
+Invoice number found: V31171528
+Total charged found: 1422.0
+Exctracting info from file WatsonGroup_2021-06-20.jpg | [8238/8411]
+Invoice number found: J57753721
+Total charged found: 20361.73
+Exctracting info from file WatsonRamirezandBurton_2023-04-23.jpg | [8239/8411]
+Invoice number found: Y39330110
+Total charged found: 28107.93
+Exctracting info from file WattsLLC_2022-01-04.jpg | [8240/8411]
+Invoice number found: 211083444
+Total charged found: 31743.49
+Exctracting info from file WattsPLC_2022-06-07.jpg | [8241/8411]
+Invoice number found: 81116292
+Total charged found: 36555.17
+Exctracting info from file WebbandSons_2021-01-06.jpg | [8242/8411]
+Total charged found: 20983.09
+Exctracting info from file WebbSalazar_2023-03-15.jpg | [8243/8411]
+Invoice number found: 195461498
+Total charged found: 19045.98
+Exctracting info from file WebbScott_2022-05-23.jpg | [8244/8411]
+Invoice number found: J89879511
+Total charged found: 5313.22
+Exctracting info from file WeberInc_2021-11-13.jpg | [8245/8411]
+Invoice number found: 787088741
+Total charged found: 4265.55
+Exctracting info from file WeberRiveraandOchoa_2021-07-19.jpg | [8246/8411]
+Invoice number found: 564653890
+Exctracting info from file WebsterMcknight_2023-05-13.jpg | [8247/8411]
+Invoice number found: T36991021
+Exctracting info from file WellsLLC_2021-02-16.jpg | [8248/8411]
+Invoice number found: 452150375
+Total charged found: 28251.24
+Exctracting info from file WellsPerkins_2021-11-11.jpg | [8249/8411]
+Invoice number found: V05922470
+Total charged found: 51175.81
+Exctracting info from file WernerFranklin_2023-01-06.jpg | [8250/8411]
+Invoice number found: 625838897
+Total charged found: 50158.32
+Exctracting info from file WestInc_2022-06-14.jpg | [8251/8411]
+Invoice number found: 888482378
+Total charged found: 28294.65
+Exctracting info from file WheelerGroup_2023-04-29.jpg | [8252/8411]
+Invoice number found: 73040375
+Total charged found: 1717.0
+Exctracting info from file WheelerJohnsonandBass_2021-09-26.jpg | [8253/8411]
+Invoice number found: U03504091
+Total charged found: 21196.65
+Exctracting info from file WhitakerFergusonandBaldwin_2022-08-09.jpg | [8254/8411]
+Invoice number found: 113855806
+Total charged found: 28.0
+Exctracting info from file WhitakerJohnsonandDominguez_2021-10-03.jpg | [8255/8411]
+Invoice number found: 527479174
+Total charged found: 27648.53
+Exctracting info from file WhitakerPLC_2021-03-20.jpg | [8256/8411]
+Invoice number found: B77450189
+Total charged found: 9080.62
+Exctracting info from file WhiteandSons_2021-01-30.jpg | [8257/8411]
+Invoice number found: J36873143
+Total charged found: 11976.15
+Exctracting info from file WhiteJames_2022-08-02.jpg | [8258/8411]
+Total charged found: 20846.95
+Exctracting info from file WhiteLambandLopez_2021-03-26.jpg | [8259/8411]
+Invoice number found: 545048419
+Total charged found: 22086.17
+Exctracting info from file WhiteMartinezandRodriguez_2022-07-08.jpg | [8260/8411]
+Invoice number found: 384099366
+Total charged found: 19850.53
+Exctracting info from file WhiteRojasandAlvarez_2021-01-09.jpg | [8261/8411]
+Invoice number found: 158887227
+Total charged found: 28789.91
+Exctracting info from file WhitneyLtd_2022-05-28.jpg | [8262/8411]
+Invoice number found: 894159620
+Total charged found: 35372.86
+Exctracting info from file WileyGroup_2022-12-25.jpg | [8263/8411]
+Invoice number found: X46445966
+Total charged found: 45963.5
+Exctracting info from file WileyWilliams_2023-03-08.jpg | [8264/8411]
+Invoice number found: V18159632
+Exctracting info from file WilkersonandSons_2023-03-10.jpg | [8265/8411]
+Total charged found: 44995.57
+Exctracting info from file WilkersonJarvisandBishop_2023-04-17.jpg | [8266/8411]
+Invoice number found: Y30651829
+Total charged found: 33087.98
+Exctracting info from file WilkinsonWolfandAndrews_2021-05-29.jpg | [8267/8411]
+Invoice number found: 593390813
+Total charged found: 22254.24
+Exctracting info from file WilliamsandSons_2021-10-17.jpg | [8268/8411]
+Invoice number found: 465461155
+Total charged found: 56389.0
+Exctracting info from file WilliamsandSons_2022-06-18.jpg | [8269/8411]
+Invoice number found: 96194542
+Total charged found: 31110.65
+Exctracting info from file WilliamsClarkandSolomon_2023-05-11.jpg | [8270/8411]
+Invoice number found: U59020633
+Total charged found: 24326.26
+Exctracting info from file WilliamsDuncanandMills_2023-02-28.jpg | [8271/8411]
+Invoice number found: Z55368567
+Total charged found: 12973.84
+Exctracting info from file WilliamsDurham_2022-10-04.jpg | [8272/8411]
+Invoice number found: S70086573
+Total charged found: 4704.0
+Exctracting info from file WilliamsGarciaandMartin_2023-02-10.jpg | [8273/8411]
+Invoice number found: 459794008
+Total charged found: 18033.42
+Exctracting info from file WilliamsJimenezandJones_2021-09-16.jpg | [8274/8411]
+Invoice number found: 122461997
+Total charged found: 30817.87
+Exctracting info from file WilliamsKiddandPeters_2023-04-14.jpg | [8275/8411]
+Invoice number found: 380315064
+Total charged found: -4702.8
+Exctracting info from file WilliamsLLC_2021-01-04.jpg | [8276/8411]
+Invoice number found: 12289795
+Total charged found: 53042.84
+Exctracting info from file WilliamsLLC_2022-12-21.jpg | [8277/8411]
+Invoice number found: 350598104
+Total charged found: 42458.4
+Exctracting info from file WilliamsLtd_2022-01-04.jpg | [8278/8411]
+Invoice number found: Q30884034
+Total charged found: 49426.59
+Exctracting info from file WilliamsOrtega_2021-04-03.jpg | [8279/8411]
+Invoice number found: 154875067
+Total charged found: 34671.07
+Exctracting info from file WilliamsRobinson_2022-08-20.jpg | [8280/8411]
+Invoice number found: Q14795350
+Total charged found: 59030.43
+Exctracting info from file WilliamsStrickland_2022-05-18.jpg | [8281/8411]
+Invoice number found: 768526881
+Exctracting info from file WilliamsTannerandBuckley_2021-08-16.jpg | [8282/8411]
+Invoice number found: 348648467
+Total charged found: 27881.66
+Exctracting info from file WilliamsWagnerandHayes_2022-10-16.jpg | [8283/8411]
+Invoice number found: G62035436
+Total charged found: 25203.45
+Exctracting info from file WilliamsWatts_2023-01-15.jpg | [8284/8411]
+Invoice number found: 14220056
+Total charged found: 18316.12
+Exctracting info from file WillisandSons_2023-01-17.jpg | [8285/8411]
+Invoice number found: B18206495
+Total charged found: 5635.42
+Exctracting info from file WillisFordandColeman_2021-06-04.jpg | [8286/8411]
+Invoice number found: 808402531
+Total charged found: 18907.63
+Exctracting info from file WillisInc_2022-04-07.jpg | [8287/8411]
+Invoice number found: 21244660
+Total charged found: 27896.63
+Exctracting info from file WillisSandovalandFlowers_2021-10-28.jpg | [8288/8411]
+Total charged found: 42930.49
+Exctracting info from file WilsonArroyo_2022-04-07.jpg | [8289/8411]
+Invoice number found: 719833148
+Exctracting info from file WilsonBrady_2022-02-27.jpg | [8290/8411]
+Total charged found: 22132.98
+Exctracting info from file WilsonCook_2023-04-16.jpg | [8291/8411]
+Invoice number found: 537004924
+Total charged found: 26958.49
+Exctracting info from file WilsonGroup_2021-10-16.jpg | [8292/8411]
+Invoice number found: B08075350
+Error ocurred with the total of invoice_number: B08075350
+Exctracting info from file WilsonGroup_2022-12-16.jpg | [8293/8411]
+Invoice number found: 873298481
+Total charged found: 47110.99
+Exctracting info from file WilsonInc_2022-01-07.jpg | [8294/8411]
+Invoice number found: Y21203729
+Total charged found: 12718.52
+Exctracting info from file WilsonLong_2021-01-24.jpg | [8295/8411]
+Invoice number found: Z71361714
+Total charged found: 20040.78
+Exctracting info from file WilsonMatthewsandRoberts_2022-12-07.jpg | [8296/8411]
+Invoice number found: 260228153
+Total charged found: 28275.56
+Exctracting info from file WilsonMora_2022-01-19.jpg | [8297/8411]
+Invoice number found: 472235640
+Total charged found: 19189.41
+Exctracting info from file WilsonOsborn_2022-02-03.jpg | [8298/8411]
+Invoice number found: B94810033
+Total charged found: 41403.46
+Exctracting info from file WilsonPatel_2022-10-22.jpg | [8299/8411]
+Invoice number found: 942325644
+Total charged found: 13293.2
+Exctracting info from file WilsonPLC_2021-01-25.jpg | [8300/8411]
+Invoice number found: 7033710
+Total charged found: 70508.61
+Exctracting info from file WilsonWashingtonandBell_2022-06-19.jpg | [8301/8411]
+Invoice number found: 309996920
+Total charged found: 2.0
+Exctracting info from file WintersCarterandMora_2021-05-02.jpg | [8302/8411]
+Invoice number found: 229307847
+Total charged found: 42.0
+Exctracting info from file WolfeGroup_2022-11-07.jpg | [8303/8411]
+Invoice number found: 487805713
+Total charged found: 36993.5
+Exctracting info from file WolfeInc_2022-10-17.jpg | [8304/8411]
+Total charged found: 15805.28
+Exctracting info from file WolfeMorenoandThompson_2023-02-20.jpg | [8305/8411]
+Invoice number found: 504612536
+Total charged found: 34974.34
+Exctracting info from file WolfRamosandCameron_2021-12-21.jpg | [8306/8411]
+Invoice number found: F34156922
+Total charged found: 16182.82
+Exctracting info from file WongIngram_2021-08-01.jpg | [8307/8411]
+Invoice number found: 265657754
+Total charged found: 24926.74
+Exctracting info from file WoodandSons_2021-05-18.jpg | [8308/8411]
+Total charged found: 47169.87
+Exctracting info from file WoodGordonandNeal_2021-11-22.jpg | [8309/8411]
+Total charged found: -517211.27
+Exctracting info from file WoodGreen_2023-04-26.jpg | [8310/8411]
+Invoice number found: S14793346
+Total charged found: 12931.7
+Exctracting info from file WoodKingandDoyle_2021-11-28.jpg | [8311/8411]
+Invoice number found: P94475825
+Total charged found: 35446.78
+Exctracting info from file WoodLLC_2021-08-21.jpg | [8312/8411]
+Invoice number found: U09497437
+Total charged found: 52989.54
+Exctracting info from file WoodLtd_2021-10-11.jpg | [8313/8411]
+Total charged found: 24009.43
+Exctracting info from file WoodMathews_2022-12-15.jpg | [8314/8411]
+Invoice number found: F96941623
+Total charged found: 5549646.0
+Exctracting info from file WoodMckenzieandAguilar_2022-01-19.jpg | [8315/8411]
+Invoice number found: N29560299
+Total charged found: 9723.99
+Exctracting info from file WoodsBarnett_2021-02-16.jpg | [8316/8411]
+Invoice number found: F18880903
+Total charged found: 34226.32
+Exctracting info from file WoodsLLC_2023-01-24.jpg | [8317/8411]
+Total charged found: 8112.9
+Exctracting info from file WoodsPLC_2021-09-17.jpg | [8318/8411]
+Invoice number found: 820380833
+Total charged found: 9299.4
+Exctracting info from file WrightandSons_2022-02-09.jpg | [8319/8411]
+Invoice number found: J05804485
+Total charged found: 30286.48
+Exctracting info from file WrightBrown_2021-02-26.jpg | [8320/8411]
+Total charged found: 25198.32
+Exctracting info from file WrightCampbell_2022-03-27.jpg | [8321/8411]
+Invoice number found: 688151776
+Total charged found: 12364.22
+Exctracting info from file WrightJones_2023-01-12.jpg | [8322/8411]
+Total charged found: 7938.21
+Exctracting info from file WrightLoveandReeves_2021-05-27.jpg | [8323/8411]
+Invoice number found: 808092303
+Total charged found: 31121.23
+Exctracting info from file WrightSchneiderandTucker_2023-05-20.jpg | [8324/8411]
+Invoice number found: 694420519
+Total charged found: 34005.56
+Exctracting info from file WrightYoungandJenkins_2023-04-03.jpg | [8325/8411]
+Invoice number found: 519055436
+Total charged found: 26986.57
+Exctracting info from file WuJones_2022-01-31.jpg | [8326/8411]
+Invoice number found: 396056152
+Total charged found: 15664.84
+Exctracting info from file WyattLLC_2021-04-29.jpg | [8327/8411]
+Invoice number found: 16513904
+Total charged found: 18484.19
+Exctracting info from file X02968929.jpg | [8328/8411]
+Total charged found: -2574149.0
+Invoice number found: X02968929
+Exctracting info from file X03826325.jpg | [8329/8411]
+Invoice number found: X03826325
+Total charged found: 5646.6
+Exctracting info from file X08063931.jpg | [8330/8411]
+Invoice number found: X08063931
+Total charged found: 33093.47
+Exctracting info from file X11461734.jpg | [8331/8411]
+Total charged found: 4440.55
+Invoice number found: X11461734
+Exctracting info from file X14198241.jpg | [8332/8411]
+Total charged found: 35920.17
+Invoice number found: X14198241
+Exctracting info from file X14346179.jpg | [8333/8411]
+Invoice number found: X14346179
+Total charged found: 39654.06
+Exctracting info from file X15054871.jpg | [8334/8411]
+Invoice number found: X15054871
+Total charged found: 22142.99
+Exctracting info from file X23958696.jpg | [8335/8411]
+Invoice number found: X23958696
+Total charged found: 62789.2
+Exctracting info from file X26050636.jpg | [8336/8411]
+Invoice number found: X26050636
+Total charged found: 30123.02
+Exctracting info from file X28187209.jpg | [8337/8411]
+Invoice number found: X28187209
+Total charged found: 43174.71
+Exctracting info from file X28609392.jpg | [8338/8411]
+Invoice number found: X28609392
+Total charged found: 6714.56
+Exctracting info from file X30496799.jpg | [8339/8411]
+Invoice number found: X30496799
+Total charged found: 12668.75
+Exctracting info from file X32022206.jpg | [8340/8411]
+Total charged found: 12408.65
+Invoice number found: X32022206
+Exctracting info from file X35432809.jpg | [8341/8411]
+Invoice number found: X35432809
+Total charged found: 101266.92
+Exctracting info from file X42246027.jpg | [8342/8411]
+Invoice number found: X42246027
+Total charged found: 12907.86
+Exctracting info from file X55554500.jpg | [8343/8411]
+Invoice number found: 578404666
+Total charged found: 44260.21
+Exctracting info from file X55841222.jpg | [8344/8411]
+Invoice number found: X55841222
+Total charged found: 58245.28
+Exctracting info from file X58364379.jpg | [8345/8411]
+Invoice number found: X58364379
+Total charged found: 28638.55
+Exctracting info from file X60715015.jpg | [8346/8411]
+Invoice number found: X60715015
+Total charged found: 20959.78
+Exctracting info from file X63064151.jpg | [8347/8411]
+Invoice number found: X63064151
+Total charged found: 36570.14
+Exctracting info from file X63285344.jpg | [8348/8411]
+Invoice number found: X63285344
+Total charged found: 25606.45
+Exctracting info from file X68373219.jpg | [8349/8411]
+Invoice number found: X68373219
+Total charged found: 11075.59
+Exctracting info from file X75336285.jpg | [8350/8411]
+Invoice number found: X75336285
+Total charged found: 8618.66
+Exctracting info from file X77373522.jpg | [8351/8411]
+Total charged found: 40883.8
+Invoice number found: X77373522
+Exctracting info from file X79235249.jpg | [8352/8411]
+Invoice number found: X79235249
+Total charged found: 95396.91
+Exctracting info from file X80960146.jpg | [8353/8411]
+Total charged found: 9028.56
+Invoice number found: X80960146
+Exctracting info from file X89070608.jpg | [8354/8411]
+Invoice number found: X89070608
+Exctracting info from file X92090720.jpg | [8355/8411]
+Invoice number found: X92090720
+Total charged found: 32991.07
+Exctracting info from file X94758986.jpg | [8356/8411]
+Invoice number found: X94758986
+Exctracting info from file X97897804.jpg | [8357/8411]
+Invoice number found: X97897804
+Total charged found: 46956.04
+Exctracting info from file X99155978.jpg | [8358/8411]
+Invoice number found: X99155978
+Total charged found: 5661.68
+Exctracting info from file Y03879613.jpg | [8359/8411]
+Invoice number found: Y03879613
+Total charged found: 32151.42
+Exctracting info from file Y04328097.jpg | [8360/8411]
+Invoice number found: Y04328097
+Total charged found: 5942.66
+Exctracting info from file Y05844979.jpg | [8361/8411]
+Invoice number found: Y05844979
+Total charged found: 64864.55
+Exctracting info from file Y07159667.jpg | [8362/8411]
+Invoice number found: Y07159667
+Exctracting info from file Y10211393.jpg | [8363/8411]
+Invoice number found: Y10211393
+Total charged found: 46757.36
+Exctracting info from file Y11846858.jpg | [8364/8411]
+Invoice number found: Y11846858
+Total charged found: 17805.9
+Exctracting info from file Y12881574.jpg | [8365/8411]
+Invoice number found: Y12881574
+Total charged found: 63771.71
+Exctracting info from file Y24230941.jpg | [8366/8411]
+Total charged found: 24487.49
+Invoice number found: Y24230941
+Exctracting info from file Y31660935.jpg | [8367/8411]
+Invoice number found: Y31660935
+Error ocurred with the total of invoice_number: Y31660935
+Exctracting info from file Y36106652.jpg | [8368/8411]
+Invoice number found: Y36106652
+Total charged found: -142.79
+Exctracting info from file Y47600395.jpg | [8369/8411]
+Invoice number found: Y47600395
+Total charged found: 34382.86
+Exctracting info from file Y48993830.jpg | [8370/8411]
+Invoice number found: Y48993830
+Total charged found: 62733.84
+Exctracting info from file Y63849262.jpg | [8371/8411]
+Invoice number found: Y63849262
+Total charged found: 12624.0
+Exctracting info from file Y67083546.jpg | [8372/8411]
+Invoice number found: Y67083546
+Total charged found: 17100.25
+Exctracting info from file Y70356799.jpg | [8373/8411]
+Invoice number found: Y70356799
+Total charged found: 12253.19
+Exctracting info from file Y72964599.jpg | [8374/8411]
+Invoice number found: Y72964599
+Exctracting info from file Y75103602.jpg | [8375/8411]
+Invoice number found: Y75103602
+Total charged found: 41977.25
+Exctracting info from file Y79228383.jpg | [8376/8411]
+Invoice number found: Y79228383
+Total charged found: 19206.06
+Exctracting info from file Y82145058.jpg | [8377/8411]
+Invoice number found: Y82145058
+Total charged found: 36690.36
+Exctracting info from file Y83178679.jpg | [8378/8411]
+Invoice number found: Y83178679
+Total charged found: 38675.98
+Exctracting info from file Y85842192.jpg | [8379/8411]
+Invoice number found: Y85842192
+Total charged found: 35925.77
+Exctracting info from file Y89691810.jpg | [8380/8411]
+Total charged found: 26423.15
+Invoice number found: Y89691810
+Exctracting info from file Y90616181.jpg | [8381/8411]
+Total charged found: 21490.67
+Invoice number found: Y90616181
+Exctracting info from file Y91293409.jpg | [8382/8411]
+Invoice number found: Y91293409
+Total charged found: 42691.95
+Exctracting info from file Y96197941.jpg | [8383/8411]
+Invoice number found: Y96197941
+Total charged found: 65480.17
+Exctracting info from file YangandSons_2021-05-27.jpg | [8384/8411]
+Invoice number found: 924504787
+Total charged found: 39899.79
+Exctracting info from file YoungForbes_2021-02-21.jpg | [8385/8411]
+Invoice number found: 874783550
+Total charged found: 13879.13
+Exctracting info from file YoungGroup_2023-04-30.jpg | [8386/8411]
+Invoice number found: B91679980
+Exctracting info from file YoungJacksonandWaters_2023-02-22.jpg | [8387/8411]
+Invoice number found: 651184765
+Exctracting info from file YoungLLC_2022-05-16.jpg | [8388/8411]
+Invoice number found: W77096603
+Total charged found: 12554.85
+Exctracting info from file YoungMacias_2021-11-19.jpg | [8389/8411]
+Invoice number found: 88988850
+Total charged found: 16069.76
+Exctracting info from file Z14428840.jpg | [8390/8411]
+Total charged found: 7596347.0
+Invoice number found: Z14428840
+Exctracting info from file Z20459034.jpg | [8391/8411]
+Invoice number found: Z20459034
+Total charged found: 42442.38
+Exctracting info from file Z22930901.jpg | [8392/8411]
+Invoice number found: Z22930901
+Total charged found: 32068.76
+Exctracting info from file Z24114092.jpg | [8393/8411]
+Invoice number found: Z24114092
+Total charged found: 28322.48
+Exctracting info from file Z29046653.jpg | [8394/8411]
+Invoice number found: Z29046653
+Error ocurred with the total of invoice_number: Z29046653
+Exctracting info from file Z31385423.jpg | [8395/8411]
+Total charged found: 18445.28
+Invoice number found: Z31385423
+Exctracting info from file Z34426267.jpg | [8396/8411]
+Invoice number found: Z34426267
+Total charged found: 35132.48
+Exctracting info from file Z34890736.jpg | [8397/8411]
+Total charged found: 22526.14
+Invoice number found: Z34890736
+Exctracting info from file Z36196073.jpg | [8398/8411]
+Invoice number found: Z36196073
+Total charged found: 15393.91
+Exctracting info from file Z36941251.jpg | [8399/8411]
+Invoice number found: Z36941251
+Total charged found: 37938.88
+Exctracting info from file Z37036921.jpg | [8400/8411]
+Exctracting info from file Z37207689.jpg | [8401/8411]
+Exctracting info from file Z46391021.jpg | [8402/8411]
+Total charged found: 10583.42
+Invoice number found: Z46391021
+Exctracting info from file Z47518912.jpg | [8403/8411]
+Invoice number found: Z47518912
+Error ocurred with the total of invoice_number: Z47518912
+Exctracting info from file Z51804833.jpg | [8404/8411]
+Invoice number found: Z51804833
+Total charged found: 36626.89
+Exctracting info from file Z61443663.jpg | [8405/8411]
+Total charged found: 25341.23
+Invoice number found: Z61443663
+Exctracting info from file Z66524472.jpg | [8406/8411]
+Total charged found: 1431682.0
+Invoice number found: Z66524472
+Exctracting info from file Z84160504.jpg | [8407/8411]
+Total charged found: 17090.68
+Invoice number found: Z84160504
+Exctracting info from file Z86093956.jpg | [8408/8411]
+Exctracting info from file Z90910899.jpg | [8409/8411]
+Total charged found: 112078.8
+Invoice number found: Z90910899
+Exctracting info from file Z93108114.jpg | [8410/8411]
+Invoice number found: Z93108114
+Exctracting info from file Z97075465.jpg | [8411/8411]
+Invoice number found: Z97075465
+Total charged found: 28372.96
+**************************************************
+Found 6834/8411
+**************************************************
+Saving results...
+************* Errors *************
+[('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/116065291.jpg', '116065291', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/2021-02-19_6251.jpg', None, 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/2021-04-04_4821.jpg', '18439230', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/2021-04-28_5459.jpg', 'D35131951', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/2021-05-06_5734.jpg', 'Q86400197', 'Total: -$3,575.8:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/2021-05-17_2523.jpg', '337930077', 'Total: $1:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/2021-05-30_7105.jpg', '422675770', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/2021-06-08_5137.jpg', None, 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/2021-06-13_1629.jpg', None, 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/2021-06-15_7257.jpg', 'H49091391', 'Total: $1:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/2021-07-19_6100.jpg', 'T58913932', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/2021-08-11_8394.jpg', 'G43307344', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/2021-09-04_6472.jpg', 'N05119842', 'Total: $:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/2021-09-06_2824.jpg', 'W46992973', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/2021-09-17_7562.jpg', 'T56434348', 'Total: $21,6!'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/2021-10-14_3632.jpg', 'R25159687', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/2021-12-17_704.jpg', 'R88280613', 'Total: 
+$1l,921.19'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/2022-02-19_7770.jpg', 'R49022919', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/2022-04-29_4966.jpg', '311528310', 'Total: $27,4i'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/2022-05-13_2460.jpg', '664522754', 'Total: $'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/2022-05-27_1941.jpg', '979283277', 'Total: $.'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/2022-05-28_4770.jpg', '813487968', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/2022-06-21_226.jpg', '220394393', 'Total: $9,99!'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/2022-06-26_7727.jpg', '760173368', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/2022-07-02_1036.jpg', 'C38624807', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/2022-07-05_3556.jpg', '719893326', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/2022-10-30_504.jpg', '835843019', 'Total: $33,1:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/2023-02-17_1761.jpg', 'J83789817', 'Total: $16,255.f'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/2023-03-12_3069.jpg', '327525923', 'Total:630'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/2023-03-27_913.jpg', 'U75994515', 'Total: $53,066:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/2023-04-03_1534.jpg', '931101666', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/2023-04-29_3770.jpg', '327952333', 'Total: $'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/2023-05-17_8049.jpg', '643467761', 'Total: $12,985.7{'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/224430200.jpg', '224430200', 'Total: $37,:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/227224377.jpg', '227224377', 'Total: $]'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/355212809.jpg', '355212809', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/373313006.jpg', '373313006', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/520260634.jpg', '520260634', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/725748905.jpg', '725748905', 'Total: $26,:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/765042909.jpg', '765042909', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/773674009.jpg', '773674009', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/825708962.jpg', '825708962', 'Total: $20,9:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/860655077.jpg', '860655077', 'Total: $37,75!'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/862115473.jpg', '862115473', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/877943921.jpg', None, 'Total: $2I'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/9121602.jpg', '9121602', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/986973581.jpg', '986973581', 'Total: $61,57;'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/991001106.jpg', '991001106', 'Total: $20,5;'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/A24802979.jpg', 'A24802979', 'Total: $'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/AndersonCarterandWhitaker_2021-11-15.jpg', None, 'Total: $10;;'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/CampbellWrightandColeman_2021-06-24.jpg', None, 'Total: $33,083.('), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/ChristianLevine_2022-09-25.jpg', '487742506', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/CowanLevyandDavis_2021-02-24.jpg', 'Z89958148', "Total: $7,604.1'"), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/DaughertyDavisandSampson_2023-03-31.jpg', '953436099', 'Total: $44,840.0('), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/E30166544.jpg', 'E30166544', 'Total: $11,321./'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Email_Attachment_2021-04-18_6182.jpg', '632846262', 'Total: ${'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Email_Attachment_2021-07-07_3401.jpg', 'J81924925', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Email_Attachment_2021-07-12_8068.jpg', '77595268', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Email_Attachment_2021-09-11_7504.jpg', 'T18503666', 'Total: $37,04!'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Email_Attachment_2022-01-15_8410.jpg', 'E26231313', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Email_Attachment_2022-02-11_7803.jpg', None, 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Email_Attachment_2022-03-14_2818.jpg', 'X31312836', 'Total: $'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Email_Attachment_2022-03-22_5135.jpg', 'X09986496', 'Total: $21,89;'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Email_Attachment_2022-04-07_3548.jpg', '330924852', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Email_Attachment_2022-04-11_27.jpg', 'G56427813', 'Total: $21,5('), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Email_Attachment_2022-04-18_1117.jpg', 'M92216175', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Email_Attachment_2022-06-25_2896.jpg', '28668595', 'Total: $21,866.€'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Email_Attachment_2022-08-02_4227.jpg', '835007915', 'Total: $;'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Email_Attachment_2022-08-07_8325.jpg', '136267398', 'Total: $'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Email_Attachment_2022-08-23_3485.jpg', '3236057', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Email_Attachment_2023-02-13_3223.jpg', 'T15780799', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Email_Attachment_2023-02-14_610.jpg', '385264182', 'Total: $I'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Email_Attachment_2023-02-23_6936.jpg', 'T25347129', 
+'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Email_Attachment_2023-03-05_1089.jpg', '575109766', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Email_Attachment_2023-03-08_8178.jpg', None, 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Email_Attachment_2023-03-10_1519.jpg', '949263417', 'Total: $21,362.2:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Email_Attachment_2023-05-09_2427.jpg', '752851804', 'Total: $55,!'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Email_Attachment_2023-05-16_3863.jpg', 'C76112130', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/FarleyLLC_2021-04-28.jpg', 'R89471651', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/FieldsGibson_2021-11-19.jpg', 'Y95827937', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/GallagherSolis_2021-03-30.jpg', '642086703', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/HartmanBarkerandGarcia_2021-09-04.jpg', '32446707', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/HesterRamirezandJimenez_2022-10-04.jpg', '42048821', 'Total: $32,='), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/HowardWoods_2022-10-17.jpg', '65912996', 'Total: $14,656.('), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/HughesMolinaandKennedy_2022-10-25.jpg', '835445770', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Incoming_inv_ParaisurZ996560_1062.jpg', 'Y90063173', 'Total: $'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Incoming_inv_ParaisurZ996560_1071.jpg', 'P97658206', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Incoming_inv_ParaisurZ996560_1479.jpg', '416956786', 'Total: $'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Incoming_inv_ParaisurZ996560_1503.jpg', 'R28106914', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Incoming_inv_ParaisurZ996560_1864.jpg', '420519466', 'Total: $24,31;'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Incoming_inv_ParaisurZ996560_2236.jpg', '605931331', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Incoming_inv_ParaisurZ996560_3049.jpg', '166823673', 'Total: $9,782.;'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Incoming_inv_ParaisurZ996560_3137.jpg', '876185164', 'Total: $65,2:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Incoming_inv_ParaisurZ996560_3178.jpg', '822938021', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Incoming_inv_ParaisurZ996560_3278.jpg', 'A91245929', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Incoming_inv_ParaisurZ996560_3402.jpg', None, 'Total: $99,457 .'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Incoming_inv_ParaisurZ996560_3629.jpg', 'Z10713986', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Incoming_inv_ParaisurZ996560_3656.jpg', None, 'Total: $:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Incoming_inv_ParaisurZ996560_3932.jpg', '355485626', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Incoming_inv_ParaisurZ996560_4229.jpg', '73409823', 'Total: $'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Incoming_inv_ParaisurZ996560_4357.jpg', '423531029', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Incoming_inv_ParaisurZ996560_4769.jpg', None, 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Incoming_inv_ParaisurZ996560_4927.jpg', '992283239', 'Total: $'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Incoming_inv_ParaisurZ996560_4989.jpg', '302641442', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Incoming_inv_ParaisurZ996560_5515.jpg', '825486934', 'Total: $25,779.7:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Incoming_inv_ParaisurZ996560_5568.jpg', 'X87475967', 'Total: $'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Incoming_inv_ParaisurZ996560_5636.jpg', '347457990', 'Total: $'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Incoming_inv_ParaisurZ996560_5919.jpg', '482891702', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Incoming_inv_ParaisurZ996560_5977.jpg', None, 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Incoming_inv_ParaisurZ996560_5985.jpg', 'P56603990', 'Total: $'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Incoming_inv_ParaisurZ996560_630.jpg', 'H35677554', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Incoming_inv_ParaisurZ996560_6813.jpg', 'P00976444', 'Total: $:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Incoming_inv_ParaisurZ996560_6947.jpg', '441360782', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Incoming_inv_ParaisurZ996560_7156.jpg', 'G87374014', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Incoming_inv_ParaisurZ996560_7294.jpg', 'F96608585', 'Total: $11,092:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Incoming_inv_ParaisurZ996560_7332.jpg', 'J64684453', 'Total: $16,/'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Incoming_inv_ParaisurZ996560_7367.jpg', '150189843', 'Total: $'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Incoming_inv_ParaisurZ996560_7714.jpg', None, 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Incoming_inv_ParaisurZ996560_772.jpg', 'J51177512', 'Total: $42,2;'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Incoming_inv_ParaisurZ996560_7827.jpg', '871568454', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Incoming_inv_ParaisurZ996560_7843.jpg', 'X21711068', 'Total: $;'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Incoming_inv_ParaisurZ996560_8138.jpg', 'F39119263', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Incoming_inv_ParaisurZ996560_902.jpg', 'W73044264', "Total: $83,970'"), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Incoming_inv_ParaisurZ996560_98.jpg', '195621415', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Invoice (1597).jpg', None, 'Total: $49,654,2('), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Invoice (1733).jpg', 'R70096617', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Invoice (2019).jpg', '988726016', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Invoice (2250).jpg', None, 
+'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Invoice (2632).jpg', '491131511', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Invoice (2653).jpg', '339441236', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Invoice (3459).jpg', 
+'611250061', 'Total: $22,842:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Invoice (3461).jpg', '836704930', 'Total: $4C'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Invoice (3537).jpg', '868297959', 'Total: $'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Invoice (37).jpg', '544235753', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Invoice (380).jpg', 'W39290560', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Invoice (3859).jpg', None, 'Total: $'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Invoice (4067).jpg', 'F44219757', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Invoice (4246).jpg', 'N38810174', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Invoice (4272).jpg', None, 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Invoice (4473).jpg', '978221149', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Invoice (4686).jpg', '919420457', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Invoice (4759).jpg', '189139192', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Invoice (4793).jpg', 'R42266451', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Invoice (5266).jpg', 'C25861568', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Invoice (570).jpg', '613440155', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Invoice (5966).jpg', None, 'Total: $32,!'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Invoice (640).jpg', '133674207', 'Total: $59,595/'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Invoice (6929).jpg', 'K24145918', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Invoice (744).jpg', 'V81905273', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Invoice (7662).jpg', '590658070', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Invoice (7731).jpg', '113077016', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Invoice (7802).jpg', None, 'Total: $19,115.:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Invoice (787).jpg', None, 'Total: $18,6;'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Invoice (82).jpg', '798373233', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Invoice (833).jpg', '645187376', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/J84103907.jpg', 'J84103907', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/L21090415.jpg', 'L21090415', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/LawrenceMooreandRollins_2022-05-05.jpg', 'D23588185', 'Total: $21,096.:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/LoveLLC_2023-04-29.jpg', '185501314', 'Total: $23,682.1!'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/M76986227.jpg', 'M76986227', 'Total: $]'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/M85871524.jpg', 'M85871524', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/MacdonaldCrawford_2022-07-04.jpg', '522428740', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/MarksInc_2021-02-17.jpg', '959936832', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/MartinezInc_2021-06-13.jpg', '571042494', 'Total: $1:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/MartinezPLC_2021-12-05.jpg', '669451383', 'Total: $:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/MasseyRamos_2022-05-15.jpg', '328749489', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/MckinneyLLC_2021-03-30.jpg', '201256504', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/MolinaandSons_2023-04-07.jpg', '244926579', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/MyersPLC_2022-01-05.jpg', '114330690', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/NelsonandSons_2022-08-05.jpg', 'Y20423468', 'Total: $€'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/P82919972.jpg', 'P82919972', 'Total:'), 
+('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/PattersonWilson_2022-06-07.jpg', None, 'Total: $33,57]'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/PerezPLC_2021-07-23.jpg', '471728107', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/R99129371.jpg', 'R99129371', "Total: $'"), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/RomanInc_2021-04-01.jpg', 'Z96059104', 'Total: $65,373.4.jpg', 'Z96059104', 'Total: $65,373.4!'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Ruizan$18,17;'), ('D:/paraisur_eci_uba/datadSons_2022-11-15.jpg', None, 'Total: $18,17;'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/ces/jpgs/SantosLLC_2021-04-20.jpg', 'S22458664.jpg', None, 'Total: $'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/SantosLLC_202g', 'E22390057', 'Total: $'), ('D:/pa1-04-20.jpg', '745099541', 'Total: $;'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/ScottPL7,!'), ('D:/paraisur_eci_uba/data/inpC_2021-02-09.jpg', 'E22390057', 'Total: $'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Smiputs/invoices/jpgs/StoneWelchandFrancthGroup_2022-02-12.jpg', 'X65732317', 'Total: $15,917,!'), ('D:/paraisur_eci_uba/data/inputs/invs/SwansonWallace_2021-02-12.jpg', 'Y7oices/jpgs/SotoPLC_2023-01-25.jpg', '112305922', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/in, 'Total:'), ('D:/paraisur_eci_uba/davoices/jpgs/StoneWelchandFranco_2022-12-15.jpg', '939985256', 'Total: $22,6;'), ('D:/paraisur_ec/paraisur_eci_uba/data/inputs/invoicei_uba/data/inputs/invoices/jpgs/SwansonWallace_2021-02-12.jpg', 'Y76142707', 'Total:'), ('D:/pars/V18849890.jpg', 'V18849890', 'Totalaisur_eci_uba/data/inputs/invoices/jpgs/T98964922.jpg', 'T98964922', 'Total:'), ('D:/paraisur_ec'Total: $49,292.5;'), ('D:/paraisur_ei_uba/data/inputs/invoices/jpgs/ThorntonAnderson_2021-09-10.jpg', 'Y03231690', 'Total: $22,784 .aisur_eci_uba/data/inputs/invoices/jp'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/U65119576.jpg', 'U65119576', 'Total: $:'), (6653.jpg', 'Z29046653', 'Total:'), (''D:/paraisur_eci_uba/data/inputs/invoices/jpgs/V18849890.jpg', 'V18849890', 'Total: $51,689.5*'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/WallHart_2021-12-21.jpg', None, 'Total: $49,292.5;'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/WilsonGroup_2021-10-16.jpg', 'B08075350', 'Total: $'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Y31660935.jpg', 'Y31660935', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Z29046653.jpg', 'Z29046653', 'Total:'), ('D:/paraisur_eci_uba/data/inputs/invoices/jpgs/Z47518912.jpg', 'Z47518912', 'Total: $')]        
+Recovered by name 196

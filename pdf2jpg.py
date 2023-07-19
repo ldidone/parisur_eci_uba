@@ -33,8 +33,8 @@ class Pdf2Jpg:
 
 
 if __name__ == "__main__":
-    base_input_path = "data/inputs/invoices/pdfs"
-    base_output_path = "data/inputs/invoices/jpgs"
+    base_input_path = "D:/paraisur_eci_uba/data/inputs/invoices/pdfs"
+    base_output_path = "D:/paraisur_eci_uba/data/inputs/invoices/jpgs"
 
     converter = Pdf2Jpg(base_output_path)
     converter.convert_files(base_input_path)
