@@ -120,6 +120,9 @@ class OCRInputer:
             if not flag:
                 self.save_errors.append(to_save)
             else:
+                self.df.loc[
+                    self.df.invoice_number == invoice_number, "total_charged"
+                ] = total
                 self.save_with_invoices.append(to_save)
 
         elif total_charged:
