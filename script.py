@@ -4,6 +4,8 @@ import pandas as pd
 import numpy as np
 from pdf2jpg import Pdf2Jpg
 import time
+import re
+import pickle
 
 
 class OCRInputer:
@@ -18,6 +20,8 @@ class OCRInputer:
         self.total_strings = ["Total:"]
         self.error_totals = []
         self.q_recovered_by_name = 0
+        self.save_errors = []
+        self.save_with_invoices = []
 
     def __read_csv_data(self, csv_path):
         df = pd.read_csv(csv_path)
@@ -43,6 +47,19 @@ class OCRInputer:
             f"{self.base_output_path}invoice_numbers_{round(time.time())}.csv"
         )
         self.df.to_csv(full_output_path, index=False)
+
+    def __save_files(self):
+        full_save_errors_path = (
+            f"{self.base_output_path}save_errors_{round(time.time())}.txt"
+        )
+        with open(full_save_errors_path, "wb") as fp:
+            pickle.dump(self.save_errors, fp)
+
+        full_save_with_invoices_path = (
+            f"{self.base_output_path}save_with_invoices_{round(time.time())}.txt"
+        )
+        with open(full_save_with_invoices_path, "wb") as fp:
+            pickle.dump(self.save_with_invoices, fp)
 
     def extract_info(self, input_path):
         image = cv2.imread(input_path)
@@ -77,6 +94,34 @@ class OCRInputer:
             self.df.loc[
                 self.df.invoice_number == invoice_number, "total_charged"
             ] = total_charged
+        elif invoice_number:
+            total = 0
+            flag = False
+            for res in result:
+                if "$" in res[1] and "Total:" not in res[1]:
+                    value = res[1]
+                    expresion_regular = r"-?[\$\d,.]+"
+                    salida = re.findall(expresion_regular, value)
+                    out = "".join(salida)
+                    out = out.replace("$", "")
+                    out = out.replace(",", "")
+                    print(out)
+                    if out:
+                        try:
+                            out = float(out)
+                            total += out
+                            flag = True
+                        except:
+                            print(
+                                f"Error ocurred with the total of invoice_number: {invoice_number}"
+                            )
+                            continue
+            to_save = [input_path, invoice_number, result]
+            if not flag:
+                self.save_errors.append(to_save)
+            else:
+                self.save_with_invoices.append(to_save)
+
         elif total_charged:
             file_name = input_path.replace(f"{self.base_input_path}/", "").split(".")[0]
             for invoice in self.invoice_numbers:
@@ -104,11 +149,13 @@ class OCRInputer:
         print("*" * 50)
 
         self.__export_results()
+        self.__save_files()
 
         if len(self.error_totals) > 0:
             print("************* Errors *************")
             print(self.error_totals)
         print(f"Recovered by name {self.q_recovered_by_name}")
+        print(f"With invoices - errors {len(self.save_errors)}")
 
 
 if __name__ == "__main__":
